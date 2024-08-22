@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/home_admin"
+        android:icon="@drawable/home"
+        tools:ignore="HardcodedText" />
+
+    <item android:title="History"
+        android:id="@+id/history"
+        android:icon="@drawable/history"
+        tools:ignore="HardcodedText" />
+
+    <item android:title="Dashboard"
+        android:id="@+id/dashboard"
+        android:icon="@drawable/dashboard"
+        tools:ignore="HardcodedText" />
+
+    <item android:title="Inventory"
+        android:id="@+id/inventory"
+        android:icon="@drawable/inventory"
+        tools:ignore="HardcodedText" />
+
+</menu>
