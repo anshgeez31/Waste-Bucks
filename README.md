@@ -17,6 +17,9 @@ This app promotes waste reduction and promotes eco-friendly products and practic
 * Badges and leaderboards
 * Community feeds
 
+## DEMO:
+https://drive.google.com/file/d/1hR7m9ORmXrwXQIFTwUHPBKi987HOp3Bg/view?usp=drive_link
+
 ## ✨ Getting Started
 - [Setup Git](https://git-scm.com/downloads)
 - [Setting up Android Studio](https://developer.android.com/studio/install)
