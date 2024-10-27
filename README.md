@@ -1,4 +1,4 @@
-# 🌱🗑️ WasteBucks
+# 🌱🗑️ WasteBucks (Ongoing Project)
 This android app project is based on the concept of smart waste management system with a reward based incentive system, allowing users to earn rewards by recycling/selling their home based waste products.
 
 
